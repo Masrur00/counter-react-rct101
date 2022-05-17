@@ -6,6 +6,7 @@ export default function App() {
   return (
     <div className="App">
       <Counter initCount={initCount} />
+      <h1>hellow</h1>
     </div>
   );
 }
