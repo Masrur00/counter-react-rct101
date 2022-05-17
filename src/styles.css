@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.even-class {
+   color: green;
+}
+
+.odd-class {
+  color: red;
+}
